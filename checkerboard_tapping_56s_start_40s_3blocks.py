@@ -75,10 +75,10 @@ text = visual.TextStim(win=win, ori=0, name='text',
 
 # Initialize components for Routine "trial"
 trialClock = core.Clock()
-grating = visual.RadialStim(win, tex='sqrXsqr', mask='none', units='', pos=(0.0, 0.0), size=(1, 1.3), 
-    radialCycles=3, angularCycles=8, radialPhase=0, angularPhase=0, ori=0.0, texRes=64, 
+grating = visual.RadialStim(win, tex='sqrXsqr', mask='none', units='', pos=(0.0, 0.0), size=(2, 2.6), 
+    radialCycles=6, angularCycles=8, radialPhase=0, angularPhase=0, ori=0.0, texRes=64, 
     angularRes=360, visibleWedge=(0,myVisWedge), rgb=None, color=(1.0, 1.0, 1.0), colorSpace='rgb', 
-    dkl=None, lms=None, contrast=1.0, opacity=1.0, depth=0, rgbPedestal=(0.0, 0.0, 0.0), 
+    dkl=None, lms=None, contrast=.5, opacity=1.0, depth=0, rgbPedestal=(0.0, 0.0, 0.0), 
     interpolate=False, name='', autoLog=True)
 text_2 = visual.TextStim(win=win, ori=0, name='text_2',
     text='+',
