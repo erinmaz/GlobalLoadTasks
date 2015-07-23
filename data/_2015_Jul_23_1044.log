@@ -1,0 +1,12 @@
+3.3439 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.2096 	EXP 	Created instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=138, italic=False, name='instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2141 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=46, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2242 	EXP 	TextStim: autoDraw = True
+6.0081 	DATA 	Keypress: space
+6.0245 	EXP 	TextStim: autoDraw = False
+6.0245 	EXP 	TextStim: autoDraw = True
+8.6090 	DATA 	Keypress: t
+8.8259 	DATA 	Keypress: t
+8.9924 	DATA 	Keypress: t
+9.2261 	DATA 	Keypress: t
+9.6595 	DATA 	Keypress: escape
